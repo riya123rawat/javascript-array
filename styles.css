@@ -1,0 +1,38 @@
+body {
+    margin :0;
+    padding: 0;
+    background-color: grey;
+}
+
+h2, h4, p, ol {
+    text-align: left;
+
+}
+.container {
+    max-width: 600px;
+    text-align: center;
+    margin:40px auto;
+    padding: 40px 50px;
+    background-color:grey;
+    border-radius: 25px;
+
+}
+.div1,  .div2, .div3, .div4 {
+    width: 30px;
+    height: 30px;
+    margin: 3px;
+    display: inline-flex;
+}
+.div1 {
+    background-color: black;
+}
+.div2 {
+    background-color: blue;
+
+}
+.div3 {
+    background-color: brown;
+}
+.div4 {
+    background-color: red;
+}
